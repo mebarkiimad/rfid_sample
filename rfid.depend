@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1684829977 source:c:\users\imadev\desktop\rfid\main.c
+	<stdio.h>
+	<stdlib.h>
+	"twn4.sys.h"
+	"apptools.h"
+	"prs.h"
+
+1664524128 c:\users\imadev\desktop\rfid\twn4.sys.h
+	<stdint.h>
+	<string.h>
+	<stdarg.h>
+
+1684829914 c:\users\imadev\desktop\rfid\apptools.h
+
+1449762166 c:\users\imadev\desktop\rfid\prs.h
+
